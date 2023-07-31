@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "title": "ERP System Development",
+        "desc": "Welcome to the Future of Business Management: Unleash the Power of Efficiency with Our Custom ERP System Development!.",
+        "backgroundImage": "/images/hero-image/hero-2.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Web and Mobile Application Development",
+        "desc": "Transform the way you engage with your audience, whether on web browsers or mobile devices. Our expert team of developers, designers, and innovators will create seamless, user-friendly, and visually stunning applications that leave a lasting impression.",
+        "backgroundImage": "/images/hero-image/hero-1.jpg"
+    },
+    {
+        "id": "3",
+        "title": "ICT Solutions",
+        "desc": "Unlock the true potential of your business with our comprehensive range of Information and Communication Technology Solutions. From advanced networking and cloud services to cybersecurity and digital transformation, we've got you covered at every step of your technological evolution.",
+        "backgroundImage": "/images/hero-image/hero-3.jpg"
+    }
+]

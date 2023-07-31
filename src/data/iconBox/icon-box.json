@@ -1,0 +1,45 @@
+[
+    {
+        "id": "1",
+        "icon": "images/svg/linea/linea-basic-target.svg",
+        "title": "Software Development & Implementation",
+        "desc": "Design & Develop Custom Software Solutions that empower businesses to stay ahead of their competition.",
+        "link": "service"
+    },
+    {
+        "id": "2",
+        "icon": "images/svg/linea/linea-basic-picture-multiple.svg",
+        "title": "ERP Development & Implementation",
+        "desc": "ERP is a comprehensive software automations, flow of data accounting, fleet, inventory, sales, marketing, human resource and much more.",
+        "link": "service"
+    },
+    {
+        "id": "3",
+        "icon": "images/svg/linea/linea-basic-picture.svg",
+        "title": "Website Design & Development",
+        "desc": "Designing and creating custom built websites, web portals and web applications. We analyze and research the market trends and collaborate these with your business requirements.",
+        "link": "service"
+    },
+    {
+        "id": "4",
+        "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
+        "title": "Mobile App Development",
+        "desc": "Develops and customizes custom mobile application development solutions for the specific needs of any business.",
+        "link": "service"
+    },
+    {
+        "id": "5",
+        "icon": "images/svg/linea/linea-basic-gear.svg",
+        "title": "Digital Marketing",
+        "desc": "  market research, analysis, and understanding your ideal customer’s interests.  including product development, distribution methods, sales, and advertising ",
+        "link": "service"
+    },
+    {
+        "id": "6",
+        "icon": "images/svg/linea/linea-basic-display.svg",
+        "title": "Server Hosting and Configuration",
+        "desc": "high quality affordable software and web hosting services for companies of all sizes. Host your website or software on a reliable server.",
+        "link": "service"
+    }
+    
+]
